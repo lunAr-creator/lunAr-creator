@@ -1,6 +1,6 @@
-### Hi there 👋
+## Hi there 👋
 
-##A little about myself
+### A little about myself
 
 - 🔭 I’m currently working on epanding my Python programming skills. 
 - 🌱 I’m currently learning Python and can code in HTML, CSS and A little Javascript. 
