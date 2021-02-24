@@ -7,3 +7,6 @@
 - 📫 How to reach me: lunArcreator3@gmail.com
 - ⚡ Fun fact: I like to play Titanfall 2 in my free time!
 
+### Languages and Tools:
+
+[<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sublime-text/sublime-text.png" />][webdevplaylist]
