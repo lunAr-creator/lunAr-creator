@@ -3,7 +3,7 @@
 ### A little about myself
 
 - 🔭 I’m currently working on epxanding my Python programming skills. 
-- 🌱 At the moment I am learning Python and can program efficiently using HTML and CSS 
+- 🌱 At the moment I am learning to program Python and can use HTML and CSS 
 - 📫 How to reach me: lunArcreator3@gmail.com
 - ⚡ Fun fact: I like to play Titanfall 2 in my free time!
 
