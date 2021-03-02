@@ -2,7 +2,7 @@
 
 ### A little about myself
 
-🔭 I’m currently working on epxanding my Python programming skills. 
+🔭 I’m currently working on expanding my Python programming skills. 
 
 🌱 At the moment I am learning to program Python and can use HTML and CSS 
 
