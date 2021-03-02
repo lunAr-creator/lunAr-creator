@@ -10,7 +10,6 @@
 
 ⚡ Fun fact: I like to play Titanfall 2 in my free time!
 
-<p></p>
 ### Languages and Tools:
 
 
