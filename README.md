@@ -1,14 +1,16 @@
-## Hi there 👋
+## Hi there 
 
 ### A little about myself
 
-🔭 I’m currently working on expanding my Python programming skills. 
+- I’m currently working on expanding my Python programming skills. 
 
-🌱 At the moment I am learning to program Python and can use HTML and CSS 
+- At the moment I am learning to program Python and can use HTML and CSS 
 
-📫 How to reach me: lunArcreator3@gmail.com
+- How to reach me: lunArcreator3@gmail.com
 
-⚡ Fun fact: I like to play Titanfall 2 in my free time!
+- Fun fact: I like to play Titanfall 2 in my free time!
+
+<br></br>
 
 ### Languages and Tools:
 
@@ -22,10 +24,3 @@
 <img align="left" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"/>
 
 <br></br>
-
-
-### GitHub statistics:
-
-
-[![Soma .B's GitHub stats](https://github-readme-stats.vercel.app/api?username=lunAr-creator)](https://github.com/anuraghazra/github-readme-stats)
-
