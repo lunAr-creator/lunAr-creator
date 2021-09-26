@@ -4,7 +4,7 @@
 
 - I’m currently working on expanding my Python programming skills. 
 
-- At the moment I am learning to program Python and can use HTML and CSS 
+- At the moment I am learning to program in Python and can use HTML and CSS 
 
 - How to reach me: lunArcreator3@gmail.com
 
