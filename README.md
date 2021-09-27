@@ -2,7 +2,7 @@
 
 ### A little about myself
 
-- I’m currently working on expanding my Python programming skills. 
+- I’m currently working on the website for Project Vanguard 
 
 - At the moment I am learning to program in Python and can use HTML and CSS 
 
