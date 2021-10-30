@@ -2,7 +2,7 @@
 
 ### A little about myself
 
-- I’m currently working on the website for Project Vanguard 
+- I’m currently working on a command line program for checking URL's
 
 - At the moment I am learning to program in Python and can use HTML and CSS 
 
